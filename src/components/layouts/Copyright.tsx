@@ -36,14 +36,14 @@ const socialList = [
   //   color: '#1AAD19',
   //   icon: 'i-mdi-wechat',
   //   label: '微信公众号：云游君',
-  //   href: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
+  //   href: 'https://.jpg',
   // },
   // {
   //   type: 'blog',
   //   color: '#6435C9',
   //   icon: 'i-mdi-earth',
-  //   label: '博客：yunyoujun.cn',
-  //   href: 'http://www.yunyoujun.cn',
+  //   label: '博客：.cn',
+  //   href: 'http://www..cn',
   // },
 ]
 

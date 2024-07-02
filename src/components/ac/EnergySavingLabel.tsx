@@ -2,8 +2,7 @@
  * 节能产品惠民工程
  */
 export function EnergySavingLabel() {
-  // const adsenseLink = 'https://sponsors.yunyoujun.cn'
-  // const adsenseLink = 'safd'
+
 
   return (
     <a
